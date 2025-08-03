@@ -1,65 +1,57 @@
-# 🚀 TS Digital India – Learn · Hack · Automate · Grow 💻
+# 👋 Welcome to TS Digital India
 
-![TS Digital India Banner](https://raw.githubusercontent.com/tsdigitalindia/tsdigitalindia.github.io/main/assets/banner.png)
-
-Welcome to the *TS Digital India Open Source Hub* – your free gateway to over *500+ tools, scripts, and resources* for Ethical Hacking, Python Automation, App & Web Development, Freelancing, Digital Marketing, and more.  
-Built for students, freelancers, creators, and tech enthusiasts across India 🇮🇳 and beyond.
+🚀 *Simplify · Automate · Earn*  
+🔐 Empowering India with Ethical Hacking, Python Automation, Digital Freelancing & Smart Learning Resources.
 
 ---
 
-## 📚 What's Inside?
+## 🧭 Who We Are
 
-🛡 *Ethical Hacking Tools*  
-🧠 *Python Automation Projects*  
-🌐 *Website & App Development Tools*  
-💰 *Freelancing Gigs & Templates*  
-📈 *Digital Marketing & SEO Tools*  
-🤖 *AI Automation Systems*  
-💻 *Linux, Termux, Android & Windows Scripts*
+*TS Digital India* is a public knowledge initiative founded by [Balram Singh](mailto:indiatsdigital@gmail.com).  
+We provide 500+ open-source tools, ethical hacking scripts, automation utilities, and professional freelancing kits –  
+all made for students, coders, freelancers, and digital entrepreneurs.
 
 ---
 
-## 🌟 Featured Toolkits
+## 🌐 Official Links
 
-- ✅ 34+ Categories | 📁 500+ Python Scripts  
-- ✅ MIT Licensed & 100% Open Source  
-- ✅ Hindi-English Hybrid Documentation  
-- ✅ Optimized for Freelancers, Educators & Learners
-
----
-
-## 📥 Download Toolkit
-
-> 👉 Visit our official site: [https://tsdigitalindia.github.io](https://tsdigitalindia.github.io)  
-> 📂 Or [Download from GitHub Releases](https://github.com/tsdigitalindia/tsdigitalindia.github.io/releases)
+- 🔗 *Website*: [tsdigitalindia.github.io](https://tsdigitalindia.github.io)
+- 💻 *GitHub*: [github.com/ts-digital-india](https://github.com/ts-digital-india)
+- 📺 *YouTube*: [youtube.com/@tsdigitalindia](https://youtube.com/@tsdigitalindia)
+- 📸 *Instagram*: [instagram.com/ts.digitalindia](https://instagram.com/ts.digitalindia)
+- 🛍 *Gumroad Store*: [indiadigital.gumroad.com](https://indiadigital.gumroad.com)
+- 💼 *Fiverr*: [TS Digital India on Fiverr](https://www.fiverr.com/users/tsdigitalindia)
 
 ---
 
-## 🧠 Learn + Build + Earn
+## 📦 Our Projects
 
-✨ Learn from examples  
-⚙ Build real-world automations  
-💸 Earn via freelancing & courses
+🔹 *TS Digital India 2025 Toolkit*  
+🔹 350+ Python-based tools for automation, hacking, data scraping, security, and digital growth.  
+🔹 Each tool comes with bilingual manuals (English + Hindi).  
 
----
-
-## 💬 Contribute or Connect
-
-Got ideas, feedback, or want to collaborate?  
-📧 Email us: [tsdigitalindia@gmail.com](mailto:tsdigitalindia@gmail.com)  
-🔗 Follow on GitHub: [@tsdigitalindia](https://github.com/tsdigitalindia)
+➡ Stay tuned — [More on GitHub](https://github.com/ts-digital-india)
 
 ---
 
-## 📜 License
+## 🤝 Let's Collaborate
 
-This project is licensed under the *MIT License*.  
-For details, see [LICENSE](./LICENSE.txt)
+We are open to:
+
+- 🤖 Tool Development
+- 🧠 Digital Course Building
+- 📊 Freelancing Kits
+- 💰 Automation Monetization Systems
+
+📩 Reach out: [indiatsdigital@gmail.com](mailto:indiatsdigital@gmail.com)
 
 ---
 
-### 🧾 Footer
+## 🛡 License
 
-> Created with ❤ by *TS Digital India*  
-> 🇮🇳 Empowering Students, Hackers, Coders & Creators Since 2025  
-> 🌐 Website: [https://tsdigitalindia.github.io](https://tsdigitalindia.github.io)
+All projects are open-source under the *MIT License*.  
+Ethical use only.
+
+---
+
+© 2025 TS Digital India – Empowering the next generation of ethical tech leaders.
