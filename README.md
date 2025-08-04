@@ -1,57 +1,67 @@
-# 👋 Welcome to TS Digital India
+# 🌐 TS Digital India: Ethical Hacking & Automation Toolkit
 
-🚀 *Simplify · Automate · Earn*  
-🔐 Empowering India with Ethical Hacking, Python Automation, Digital Freelancing & Smart Learning Resources.
-
----
-
-## 🧭 Who We Are
-
-*TS Digital India* is a public knowledge initiative founded by [Balram Singh](mailto:indiatsdigital@gmail.com).  
-We provide 500+ open-source tools, ethical hacking scripts, automation utilities, and professional freelancing kits –  
-all made for students, coders, freelancers, and digital entrepreneurs.
+Welcome to the official landing repository for *TS Digital India*, a premium collection of 350+ ethical hacking tools, automation scripts, and development projects — curated for learners, freelancers, and digital creators.
 
 ---
 
-## 🌐 Official Links
+## 📦 What's Inside?
 
-- 🔗 *Website*: [tsdigitalindia.github.io](https://tsdigitalindia.github.io)
-- 💻 *GitHub*: [github.com/ts-digital-india](https://github.com/ts-digital-india)
-- 📺 *YouTube*: [youtube.com/@tsdigitalindia](https://youtube.com/@tsdigitalindia)
-- 📸 *Instagram*: [instagram.com/ts.digitalindia](https://instagram.com/ts.digitalindia)
-- 🛍 *Gumroad Store*: [indiadigital.gumroad.com](https://indiadigital.gumroad.com)
-- 💼 *Fiverr*: [TS Digital India on Fiverr](https://www.fiverr.com/users/tsdigitalindia)
+This repo is the *official landing page* for the following:
 
----
+| Category                        | Tools Included     |
+|----------------------------------|--------------------|
+| 🔐 Password Hacking              | 30+ Tools          |
+| 📶 WiFi Hacking                  | 30+ Tools          |
+| 🤖 Python Automation             | 28+ Tools          |
+| 📱 Android & Phone Hacking       | 20+ Tools          |
+| 🕵 OSINT / Info Gathering        | 20+ Tools          |
+| 💻 Termux, Keylogger, Network    | 50+ Tools          |
+| 📁 Fake Pages, Phishing Kits     | 30+ Tools          |
+| 🧠 AI & Automation Tools         | 25+ Tools          |
+| 💼 Freelancing & PDF Kits        | Resume, Gigs, Docs |
 
-## 📦 Our Projects
-
-🔹 *TS Digital India 2025 Toolkit*  
-🔹 350+ Python-based tools for automation, hacking, data scraping, security, and digital growth.  
-🔹 Each tool comes with bilingual manuals (English + Hindi).  
-
-➡ Stay tuned — [More on GitHub](https://github.com/ts-digital-india)
-
----
-
-## 🤝 Let's Collaborate
-
-We are open to:
-
-- 🤖 Tool Development
-- 🧠 Digital Course Building
-- 📊 Freelancing Kits
-- 💰 Automation Monetization Systems
-
-📩 Reach out: [indiatsdigital@gmail.com](mailto:indiatsdigital@gmail.com)
+> 🔗 Explore full toolkit here: [00_ts-digital-india-toolkit](https://github.com/ts-digital-india/00_ts-digital-india-toolkit)
 
 ---
 
-## 🛡 License
+## 🚀 Quick Links
 
-All projects are open-source under the *MIT License*.  
-Ethical use only.
+- 🔗 *Live Website*: [ts-digital-india.github.io](https://ts-digital-india.github.io)
+- 💼 *Fiverr Profile*: [fiverr.com/ts-digital-india](https://fiverr.com/ts-digital-india)
+- 🛍 *Gumroad Store*: [gumroad.com/tsdigitalindia](https://gumroad.com/tsdigitalindia)
+- 📥 *Download Toolkit*: [Toolkit GitHub ZIP](https://github.com/ts-digital-india/00_ts-digital-india-toolkit/archive/refs/heads/main.zip)
+- 🧑‍💻 *GitHub Profile*: [ts-digital-india](https://github.com/ts-digital-india)
+- 📷 *Instagram*: [instagram.com/tsdigitalindia](https://instagram.com/tsdigitalindia)
+- ▶ *YouTube Channel*: [YouTube - TS Digital India](https://www.youtube.com/@tsdigitalindia)
 
 ---
 
-© 2025 TS Digital India – Empowering the next generation of ethical tech leaders.
+## 📚 Documentation
+
+Each tool includes:
+- ✅ English + Hindi bilingual usage
+- 📜 MIT License & Ethical Disclaimer
+- ⚙ OS Compatibility (Windows, Linux, Android, Termux)
+- 📘 Full manual, code + example output
+
+---
+
+## 🙏 Author & Vision
+
+This project is developed by *Balram Singh* under the brand *TS Digital India*.
+
+> *Vision: *"Simplify · Automate · Earn"
+
+> 🧠 Use this toolkit for learning, freelancing, penetration testing, and ethical automation.
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](https://github.com/ts-digital-india/00_ts-digital-india-toolkit/blob/main/LICENSE).
+
+---
+
+*⭐ Star this repo* and *👥 share* it with developers, students, freelancers, and educators!
+
+---
